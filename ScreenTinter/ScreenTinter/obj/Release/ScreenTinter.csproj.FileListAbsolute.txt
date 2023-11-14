@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\ScreenTinter\ScreenTinter\bin\Release\ScreenTinter.exe.config
+C:\Users\ASUS\source\repos\ScreenTinter\ScreenTinter\bin\Release\ScreenTinter.exe
+C:\Users\ASUS\source\repos\ScreenTinter\ScreenTinter\bin\Release\ScreenTinter.pdb
+C:\Users\ASUS\source\repos\ScreenTinter\ScreenTinter\bin\Release\Guna.UI2.dll
+C:\Users\ASUS\source\repos\ScreenTinter\ScreenTinter\obj\Release\ScreenTinter.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ScreenTinter\ScreenTinter\obj\Release\ScreenTinter.ScreenTinter.resources
+C:\Users\ASUS\source\repos\ScreenTinter\ScreenTinter\obj\Release\ScreenTinter.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ScreenTinter\ScreenTinter\obj\Release\ScreenTinter.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ScreenTinter\ScreenTinter\obj\Release\ScreenTinter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ScreenTinter\ScreenTinter\obj\Release\ScreenTinter.csproj.CopyComplete
+C:\Users\ASUS\source\repos\ScreenTinter\ScreenTinter\obj\Release\ScreenTinter.exe
+C:\Users\ASUS\source\repos\ScreenTinter\ScreenTinter\obj\Release\ScreenTinter.pdb
