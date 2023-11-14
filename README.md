@@ -16,7 +16,7 @@ ScreenTinter - это простое приложение, которое поз
 5. По мере необходимости копируйте значения цвета в буфер обмена
 
 ## Скриншоты
-![ScreenTinter_S1](https://github.com/AirSoftick/Screen-Tinter/assets/141844045/b9dfaa04-2678-47c3-a22f-f2a884bd2a2b)
+![ScreenTinter_S1](https://github.com/AirSoftick/Screen-Tinter/assets/141844045/23b86b3b-689f-400b-8c8a-a6def6a4e1d5)
 
 
 Не стесняйтесь вносить свой вклад в этот проект, предлагая отчеты об ошибках, идеи, или запросы на включение изменений.
